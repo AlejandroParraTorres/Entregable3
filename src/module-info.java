@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author jparr
+ * @author Alejandro Parra
  *
  */
 module ExamenCliente {
